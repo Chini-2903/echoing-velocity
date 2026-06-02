@@ -2,7 +2,7 @@
 
 [![Engine](https://img.shields.io/badge/Made%20with-Unity-black?style=flat-square&logo=unity)](https://unity.com/)
 [![Language](https://img.shields.io/badge/Language-C%23-blue?style=flat-square&logo=c-sharp)](#)
-[![Playable Build](https://img.shields.io/badge/Playable_Build-itch.io-FA5C5C?style=flat-square&logo=itchdotio)](YOUR_ITCH_LINK)
+[![Playable Build](https://img.shields.io/badge/Playable_Build-itch.io-FA5C5C?style=flat-square&logo=itchdotio)](https://cryptixthala.itch.io/echoing-velocity)
 
 **Echoing Velocity** is a high-speed, first-person sci-fi platformer built from scratch during an intense 24-hour college game jam. The project centers around advanced player momentum manipulation, gravity inversion, and complex temporal state-rewinding architecture.
 
